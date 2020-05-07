@@ -1,0 +1,11 @@
+@charset "ISO-8859-1";
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+}
+h5{
+	color: black;
+	
+}
