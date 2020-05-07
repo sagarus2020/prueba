@@ -14,8 +14,18 @@ html, body {
     text-align: center;
     background-image: url("https://www.kdeblog.com/wp-content/uploads/2014/04/rect5399-620x350.png");
   }
+  .registro{
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    display: table;
+    text-align: left;
+    background-image: url("https://www.kdeblog.com/wp-content/uploads/2014/04/rect5399-620x350.png");
+  }
   footer {
     background-color: grey;
     display: table-row;
     height: 0;
 }
+
+
