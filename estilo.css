@@ -1,9 +1,10 @@
-@charset "ISO-8859-1";
-img {
-  border: 1px solid #ddd;
-  border-radius: 4px;
-  padding: 5px;
-  width: 150px;
+
+.imagenCarta  {
+    width:200px;
+    height:200px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
 }
 h5{
 	color: black;
